@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 2.8)
 
 #set project
-PROJECT(freegl)
+PROJECT(freeglut-testcode)
 
 #find glut
 find_package(GLUT REQUIRED glut)
